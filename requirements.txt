@@ -1,0 +1,14 @@
+mem0ai>=2.2.1
+ollama>=0.4
+openai>=1.30
+fastapi>=0.115
+uvicorn>=0.30
+networkx>=3.3
+pydantic>=2.7
+python-dotenv>=1.0
+plotly>=5.22
+pytest>=8.0
+httpx>=0.27
+
+# Legacy Streamlit view (app.py). The React console is the primary interface.
+streamlit>=1.37
